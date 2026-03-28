@@ -32,3 +32,9 @@ End-to-end analysis of **3,900 transactions** to decode consumer habits. This pr
 2. Run the `.ipynb` to process data and load it into **SQL Server**.
 3. Execute the `.sql` script in **SSMS**.
 4. Open the `.pbix` file in Power BI Desktop.
+
+## 📫 Connect with me:
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adarsh-pratap-shahi-4495b0189/)
+[![Email Badge](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adarshshahi22@gmail.com)
+
+---
