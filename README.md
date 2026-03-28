@@ -14,7 +14,7 @@ End-to-end analysis of **3,900 transactions** to decode consumer habits. This pr
 2. **Analyze (SQL Server):** Executed 10+ business queries in **T-SQL** (Revenue by Gender, Churn, Top Products).
 3. **Visualize (Power BI):** Built an interactive dashboard for KPI tracking and demographic deep-dives.
 
-![Dashboard Screenshot](customer_behavior_dashboard.png)
+![Dashboard Screenshot](dashboard_screenshot.png)
 
 ## 📁 Repository Structure
 * 🐍 `customer_behavior.ipynb`: Data cleaning & **SQL Server** migration.
